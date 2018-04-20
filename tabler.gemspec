@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency 'popper_js', '>= 1.12.9', '< 2'
 
-  s.add_runtime_dependency 'sass', '>= 3.5.2'
+  #s.add_runtime_dependency 'sass', '>= 3.5.2'
   s.add_runtime_dependency 'autoprefixer-rails', '>= 6.0.3'
 
   # Testing dependencies
